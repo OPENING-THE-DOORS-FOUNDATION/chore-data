@@ -7733,5 +7733,18 @@
       "state": "VIC",
       "schoolPhone": "",
       "schoolEmail": ""
-    }
+    },
+    {
+      "schoolID": 1103,
+      "name": "Hester Honbrook Academy",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "",
+      "address1": "Level 8 601 Bourke Street",
+      "suburb": "Melbourne",
+      "postcode": 3000,
+      "state": "VIC",
+      "schoolPhone": "1800517218",
+      "schoolEmail": "admin@hhacademy.vic.edu.au"
+  }
   ]
