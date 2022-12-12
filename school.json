@@ -7735,6 +7735,19 @@
       "schoolEmail": ""
     },
     {
+      "schoolID": 1015,
+      "name": "King's College Warrnambool",
+      "educationSector": "Independent",
+      "diocese": "Ballarat",
+      "principal": "Allister Rouse",
+      "address1": "44 Balmoral Road",
+      "suburb": "Warrnambool",
+      "postcode": 3280,
+      "state": "VIC",
+      "schoolPhone": "",
+      "schoolEmail": ""
+    },
+    {
       "schoolID": 1103,
       "name": "Hester Honbrook Academy",
       "educationSector": "Independent",
