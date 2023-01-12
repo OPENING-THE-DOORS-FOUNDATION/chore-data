@@ -7759,5 +7759,18 @@
       "state": "VIC",
       "schoolPhone": "1800517218",
       "schoolEmail": "admin@hhacademy.vic.edu.au"
-  }
+    },
+    {
+      "schoolID": 1136,
+      "name": "Ilim College Dallas Primary Campus",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Dogan Akin",
+      "address1": "30 Inverloch Crescent",
+      "suburb": "Dallas",
+      "postcode": 3047,
+      "state": "VIC",
+      "schoolPhone": "1800517218",
+      "schoolEmail": "admin@hhacademy.vic.edu.au"
+    }
   ]
