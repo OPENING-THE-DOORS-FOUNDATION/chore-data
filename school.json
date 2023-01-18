@@ -7770,7 +7770,20 @@
       "suburb": "Dallas",
       "postcode": 3047,
       "state": "VIC",
-      "schoolPhone": "1800517218",
-      "schoolEmail": "admin@hhacademy.vic.edu.au"
+      "schoolPhone": "",
+      "schoolEmail": ""
+    },
+    {
+      "schoolID": 1128,
+      "name": "Woodleigh School Senior Campus",
+      "educationSector": "Catholic",
+      "diocese": "Melbourne",
+      "principal": "David Baker",
+      "address1": "485 Golf Links Road",
+      "suburb": "Langwarrin South",
+      "postcode": 3911,
+      "state": "VIC",
+      "schoolPhone": "",
+      "schoolEmail": ""
     }
   ]
