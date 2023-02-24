@@ -7785,5 +7785,18 @@
       "state": "VIC",
       "schoolPhone": "",
       "schoolEmail": ""
+    },
+    {
+      "schoolID": 1109,
+      "name": "Firbank Grammar School Secondary Campus Brighton",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Jenny Williams",
+      "address1": "51 Outer Cres",
+      "suburb": "Brighton",
+      "postcode": 3186,
+      "state": "VIC",
+      "schoolPhone": "",
+      "schoolEmail": ""
     }
   ]
