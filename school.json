@@ -7811,5 +7811,18 @@
       "state": "VIC",
       "schoolPhone": "0398082000",
       "schoolEmail": "info@theavenue.org.au"
+    },
+    {
+      "schoolID": 1014,
+      "name": "Christian College Melton",
+      "educationSector": "Catholic",
+      "diocese": "Melbourne",
+      "principal": "David Gleeson",
+      "address1": "152-156 Brooklyn Rd",
+      "suburb": "Brookfield",
+      "postcode": 3338,
+      "state": "VIC",
+      "schoolPhone": "0397323000",
+      "schoolEmail": "office@mcc.vic.edu.au"
     }
   ]
