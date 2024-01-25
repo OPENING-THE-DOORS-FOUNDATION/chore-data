@@ -7824,5 +7824,18 @@
       "state": "VIC",
       "schoolPhone": "0397323000",
       "schoolEmail": "office@mcc.vic.edu.au"
+    },
+    {
+      "schoolID": 1141,
+      "name": "Bairnsdale Christian College",
+      "educationSector": "Catholic",
+      "diocese": "Sale",
+      "principal": "Richard Boonstra",
+      "address1": "101 Bairnsdale-Dargo Rd",
+      "suburb": "Bairnsdale",
+      "postcode": 3875,
+      "state": "VIC",
+      "schoolPhone": "0351530079",
+      "schoolEmail": "admin@bccs.vic.edu.au"
     }
   ]
