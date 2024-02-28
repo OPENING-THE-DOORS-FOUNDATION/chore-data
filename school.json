@@ -7837,5 +7837,18 @@
       "state": "VIC",
       "schoolPhone": "0351530079",
       "schoolEmail": "admin@bccs.vic.edu.au"
+    },
+    {
+      "schoolID": 1145,
+      "name": "Trinity Grammar School Kew",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Adrian Farrer",
+      "address1": "40 Charles St",
+      "suburb": "Kew",
+      "postcode": 3101,
+      "state": "VIC",
+      "schoolPhone": "0398543600",
+      "schoolEmail": "trinity@trinity.vic.edu.au"
     }
   ]
