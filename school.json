@@ -7850,5 +7850,31 @@
       "state": "VIC",
       "schoolPhone": "0398543600",
       "schoolEmail": "trinity@trinity.vic.edu.au"
+    },
+    {
+      "schoolID": 1065,
+      "name": "St Helena Secondary College",
+      "educationSector": "Catholic",
+      "diocese": "Melbourne",
+      "principal": "Jenny Heathcote",
+      "address1": "50 Wallowa Rd",
+      "suburb": "Eltham North",
+      "postcode": 3095,
+      "state": "VIC",
+      "schoolPhone": "0394388500",
+      "schoolEmail": "info@sthelena.vic.edu.au"
+    },
+    {
+      "schoolID": 1087,
+      "name": " All Saints Anglican School Shepparton",
+      "educationSector": "Independent",
+      "diocese": "Sandhurst",
+      "principal": "Jim Strauss",
+      "address1": "320 Verney Rd",
+      "suburb": "Shepparton North",
+      "postcode": 3631,
+      "state": "VIC",
+      "schoolPhone": "0358250000",
+      "schoolEmail": "info@allsaints.vic.gov.edu.au"
     }
   ]
