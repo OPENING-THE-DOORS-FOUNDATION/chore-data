@@ -7866,7 +7866,7 @@
     },
     {
       "schoolID": 1087,
-      "name": " All Saints Anglican School Shepparton",
+      "name": "All Saints Anglican School Shepparton",
       "educationSector": "Independent",
       "diocese": "Sandhurst",
       "principal": "Jim Strauss",
@@ -7876,5 +7876,70 @@
       "state": "VIC",
       "schoolPhone": "0358250000",
       "schoolEmail": "info@allsaints.vic.gov.edu.au"
+    },
+    {
+      "schoolID": 964,
+      "name": "SEDA College Camberwell Campus",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Heath McMillin",
+      "address1": "357 Camberwell Road",
+      "suburb": "Camberwell",
+      "postcode": 3124,
+      "state": "VIC",
+      "schoolPhone": "1300 117 332",
+      "schoolEmail": "info@seda.vic.edu.au"
+    },
+    {
+      "schoolID": 1087,
+      "name": "SEDA College Burnley Campus",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Heath McMillin",
+      "address1": " Smith Drive",
+      "suburb": "Burnley ",
+      "postcode": 3121,
+      "state": "VIC",
+      "schoolPhone": "1300 117 332",
+      "schoolEmail": "info@seda.vic.edu.au"
+    },
+    {
+      "schoolID": 1087,
+      "name": "SEDA College Frankston Campus",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Heath McMillin",
+      "address1": "Plowman Place",
+      "suburb": "Frankston ",
+      "postcode": 3199,
+      "state": "VIC",
+      "schoolPhone": "1300 117 332",
+      "schoolEmail": "info@seda.vic.edu.au"
+    },
+    {
+      "schoolID": 1087,
+      "name": "SEDA College North Melbourne Campus",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Heath McMillin",
+      "address1": "49/53 Buncle St",
+      "suburb": "North Melbourne",
+      "postcode": 3051,
+      "state": "VIC",
+      "schoolPhone": "1300 117 332",
+      "schoolEmail": "info@seda.vic.edu.au"
+    },
+    {
+      "schoolID": 1087,
+      "name": "SEDA College Werribee Campus",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Heath McMillin",
+      "address1": "229 Hoppers Ln",
+      "suburb": "Werribee",
+      "postcode": 3030,
+      "state": "VIC",
+      "schoolPhone": "1300 117 332",
+      "schoolEmail": "info@seda.vic.edu.au"
     }
   ]
