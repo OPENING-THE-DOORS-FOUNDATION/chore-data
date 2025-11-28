@@ -7928,5 +7928,18 @@
       "state": "VIC",
       "schoolPhone": "1300 117 332",
       "schoolEmail": "info@seda.vic.edu.au"
+    },
+    {
+      "schoolID": 1159,
+      "name": "Billanook College",
+      "educationSector": "Independent",
+      "diocese": "Melbourne",
+      "principal": "Roger Oates",
+      "address1": "197-199 Cardigan Rd",
+      "suburb": "Mooroolbark",
+      "postcode": 3138,
+      "state": "VIC",
+      "schoolPhone": "9725 5388",
+      "schoolEmail": ""
     }
   ]
